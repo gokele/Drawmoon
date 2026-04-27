@@ -132,7 +132,7 @@
 示例：
 
 ```
-https://你的部署域名/?apiUrl={address}&apiKey={key}
+https://img.jidog.com/?apiUrl={address}&apiKey={key}
 ```
 
 打开后参数会被立刻写入设置并从地址栏中移除，避免 key 残留在浏览历史里。
